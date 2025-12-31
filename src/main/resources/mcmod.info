@@ -1,0 +1,9 @@
+[
+  {
+    "modid": "zombiesrecap",
+    "name": "Zombies Round Recap",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "description": "Shows per-round and last-wave stats in Hypixel Zombies"
+  }
+]
